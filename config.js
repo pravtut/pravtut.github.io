@@ -6,9 +6,9 @@ window.STORE_CONFIG = {
   storeName: "PeakCart",
   currency: "USD",
   contactEmail: "hello@yourdomain.com",        // your real support email
-  freeShippingOver: 49,                         // USD
+  freeShippingOver: 59,                         // USD
   flatShipping: 5.99,
-  announcement: "Free shipping on orders over $49 · 30-day returns",
+  announcement: "Free shipping on orders over $59 · 30-day returns",
 
   /* ---- PAYMENTS (pick one or more) ---- */
   // A) Stripe Checkout (recommended): your PUBLISHABLE key (pk_live_... or pk_test_...)
